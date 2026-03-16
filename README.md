@@ -77,12 +77,6 @@ DevOps & Infrastructure
 
 ---
 
-
-
-### 📊 GitHub Stats
-![Swaroop's GitHub stats]  (https://github-readme-stats.vercel.app)
-
-
 ---
 
 🌟 Featured Projects
